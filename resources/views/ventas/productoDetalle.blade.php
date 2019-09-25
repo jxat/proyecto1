@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-<h1>Detalle de producto</h1>
+<h1>Detalle de productoa</h1>
     <ul>
     <li>Nombre: {{$productos->nombre}}</li>
     <li>codigo</li>
